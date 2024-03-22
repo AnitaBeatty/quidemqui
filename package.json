@@ -1,0 +1,20 @@
+{
+  "name": "quidemqui",
+  "version": "1.0.0",
+  "description": "A little lib for turning native-hdr-histograms to objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnitaBeatty/quidemqui.git"
+  },
+  "keywords": [
+    "native-hdr-histogram"
+  ],
+  "author": "TheodoraLubowitz",
+  "license": "MIT",
+  "devDependencies": {
+    "native-hdr-histogram": "^0.3.2",
+    "standard": "^7.1.2",
+    "tap": "^6.1.1"
+  }
+}
